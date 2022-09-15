@@ -24,7 +24,7 @@ public class hometask3 {
 
 
 
-        // 1.3 && 1.5
+        // 1.3 && 1.5 && 1.6
         System.out.println("Guess a fruit which is also a brand");
         String input;
         String answer = "apple";
