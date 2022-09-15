@@ -14,7 +14,7 @@ public class part2 {
             System.out.println("I guess you are going to university");
         else if(age<=60)
             System.out.println("I guess you are going to work");
-        else if(age>60)
+        else
             System.out.println("I guess you are retired now, congrats!");
     }
 }
