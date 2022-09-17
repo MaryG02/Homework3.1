@@ -34,7 +34,5 @@ public class part3 {
             System.out.println("Your recommended series is Orphan Black");
         else
             System.out.println("Please try again and enter data correctly");
-
-
     }
 }
